@@ -159,7 +159,6 @@ function App() {
             <option value='Phoebe'>Phoebe</option>
             <option value='Chandler'>Chandler</option>
             <option value='Rachel'>Rachel</option>
-            <option value='Janice'>Janice</option>
           </select>
         </form>
       </header>
